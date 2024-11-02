@@ -69,4 +69,4 @@ The **iterator loop** consistently performs better on average (520.4 ms) compare
 
 ### Conclusion
 
-The testing with 100,000,000 elements suggests that **iterators may provide better performance in certain scenarios, particularly with large datasets**. While the `for` loop has advantages in certain contexts (like smaller or more straightforward cases), the iterator's edge in this case may warrant its use in performance-sensitive applications.
+The testing with 100,000,000 elements suggests that **iterators may provide better performance in certain scenarios, particularly with large datasets**.
